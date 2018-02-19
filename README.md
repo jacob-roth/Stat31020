@@ -1,3 +1,3 @@
 # Stat31020
-# author: jake roth
-# description: helpers to interface with ReverseSparseDiff
+- author: jake roth
+- description: helpers to interface with ReverseSparseDiff
