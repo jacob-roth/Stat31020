@@ -28,6 +28,7 @@ z = zeros(2, 2)
 kkt_a = [h_a j_a'; j_a z]
 
 display(full(kkt))
+println();
 display(full(kkt_a))
-
+println();
 @test full(kkt) == full(kkt_a)
